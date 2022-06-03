@@ -1,9 +1,16 @@
+
 {
     "entries": [
         {
             "type": "GRP",
             "key": "STATUS",
-            "value": "Archived"
+            "value": "Review"
+        },
+        {
+            "type": "SORD",
+            "key": "name",
+            "value": "{{{sord.objKeys.NO_REGISTRASI}}}",
+            "useTemplating": true
         }
     ]
 }
